@@ -161,6 +161,52 @@ a{color:#078447}
 </form>
 </div>
 </section>
+<section style="padding:30px 15px;background:#edf2f7;text-align:center">
+<h2 style="color:#063b70">Admin Dashboard</h2>
+<p>Plumbing Technician Rwanda Management Panel</p>
+
+<div class="card">
+<h3>Customers</h3>
+<h2>0</h2>
+<p>Registered Customers</p>
+</div>
+
+<div class="card">
+<h3>Plumbers</h3>
+<h2>0</h2>
+<p>Registered Plumbers</p>
+</div>
+
+<div class="card">
+<h3>Job Requests</h3>
+<h2>0</h2>
+<p>Pending Job Requests</p>
+</div>
+
+<div class="card">
+<h3>Commission Tracking</h3>
+<p>Customer Fee: <strong>6,000 RWF</strong></p>
+<p>Plumber Fee: <strong>5,000 RWF</strong></p>
+<p>Total per matched job: <strong>11,000 RWF</strong></p>
+</div>
+
+<div class="card">
+<h3>Payment Management</h3>
+<p>MTN Mobile Money</p>
+<p>Airtel Money</p>
+<p>Payment verification: Pending</p>
+</div>
+
+<div class="card">
+<h3>Job Management</h3>
+<p>Review job requests.</p>
+<p>Connect customers with suitable plumbers.</p>
+<p>Monitor ongoing and completed jobs.</p>
+</div>
+
+<p><strong>Admin Dashboard Preview – Demo Version</strong></p>
+</section>
+
 
 </html>
 
