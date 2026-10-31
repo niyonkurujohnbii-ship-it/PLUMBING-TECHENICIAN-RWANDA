@@ -65,6 +65,37 @@ a{color:#078447}
 <p>Available across Rwanda</p>
 <a style="color:white" href="https://wa.me/250787601807">Chat with us on WhatsApp</a>
 </section>
+<section style="padding:30px;background:#eef4f8;text-align:center">
+<h2>Create Your Account</h2>
+<p>Choose the account you want to create.</p>
+
+<div class="card">
+<h3>Customer Registration</h3>
+<form>
+<input required placeholder="Full Name"><br><br>
+<input required type="tel" placeholder="Phone Number"><br><br>
+<input type="tel" placeholder="WhatsApp Number"><br><br>
+<input required type="email" placeholder="Email Address"><br><br>
+<input required placeholder="District"><br><br>
+<textarea required placeholder="Describe the plumbing service you need"></textarea><br><br>
+<button type="button">Register as Customer</button>
+</form>
+</div>
+
+<div class="card">
+<h3>Plumber Registration</h3>
+<form>
+<input required placeholder="Full Name"><br><br>
+<input required type="tel" placeholder="Phone Number"><br><br>
+<input type="tel" placeholder="WhatsApp Number"><br><br>
+<input required type="email" placeholder="Email Address"><br><br>
+<input required placeholder="District"><br><br>
+<textarea required placeholder="Your plumbing skills and experience"></textarea><br><br>
+<button type="button">Register as Plumber</button>
+</form>
+</div>
+</section>
+
 </body>
 </html>
 
