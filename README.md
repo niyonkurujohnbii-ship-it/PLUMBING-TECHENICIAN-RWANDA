@@ -142,6 +142,26 @@ a{color:#078447}
 
 
 </body>
+<section style="padding:30px;text-align:center;background:#e8f2fa">
+<h2>Login to Your Account</h2>
+<div class="card">
+<h3>Customer Login</h3>
+<form>
+<input type="email" required placeholder="Customer Email"><br><br>
+<input type="password" required placeholder="Password"><br><br>
+<button type="button">Customer Login</button>
+</form>
+</div>
+<div class="card">
+<h3>Plumber Login</h3>
+<form>
+<input type="email" required placeholder="Plumber Email"><br><br>
+<input type="password" required placeholder="Password"><br><br>
+<button type="button">Plumber Login</button>
+</form>
+</div>
+</section>
+
 </html>
 
 </html>
