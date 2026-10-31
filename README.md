@@ -235,6 +235,46 @@ a{color:#078447}
 <p>Admin must verify payment before matching customers and plumbers.</p>
 </div>
 </section>
+<section style="padding:35px 15px;background:#f4f7fa;text-align:center">
+<h2 style="color:#063b70">Request a Plumbing Service</h2>
+<p>Tell us about the plumbing work you need.</p>
+
+<div class="card">
+<form>
+<label>Full Name</label><br>
+<input type="text" required placeholder="Enter your full name" style="width:90%;padding:12px"><br><br>
+
+<label>Phone Number</label><br>
+<input type="tel" required placeholder="+250..." style="width:90%;padding:12px"><br><br>
+
+<label>District</label><br>
+<input type="text" required placeholder="Enter your district" style="width:90%;padding:12px"><br><br>
+
+<label>Sector</label><br>
+<input type="text" required placeholder="Enter your sector" style="width:90%;padding:12px"><br><br>
+
+<label>Service Type</label><br>
+<select required style="width:95%;padding:12px">
+<option value="">Select a service</option>
+<option>Pipe Repair</option>
+<option>Water Installation</option>
+<option>Bathroom Plumbing</option>
+<option>Toilet Repair</option>
+<option>Emergency Plumbing</option>
+<option>Other</option>
+</select><br><br>
+
+<label>Preferred Date</label><br>
+<input type="date" required style="width:90%;padding:12px"><br><br>
+
+<label>Describe Your Problem</label><br>
+<textarea required placeholder="Explain the plumbing work you need..." style="width:90%;padding:12px"></textarea><br><br>
+
+<button type="button" style="background:#078447;color:white;padding:13px 25px;border:0;border-radius:5px">Submit Job Request</button>
+</form>
+</div>
+</section>
+
 
 
 
