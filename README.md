@@ -274,6 +274,32 @@ a{color:#078447}
 </form>
 </div>
 </section>
+<section style="padding:30px;background:#e8f2fa;text-align:center">
+<h2>Plumber Professional Profile</h2>
+<p>Show customers your plumbing skills and experience.</p>
+<div class="card">
+<form>
+<input required placeholder="Full Name" style="padding:12px;width:90%"><br><br>
+<input required type="tel" placeholder="Phone Number" style="padding:12px;width:90%"><br><br>
+<input required placeholder="District Served" style="padding:12px;width:90%"><br><br>
+<input placeholder="Sector or Areas Served" style="padding:12px;width:90%"><br><br>
+<select required style="padding:12px;width:95%">
+<option value="">Select Experience</option>
+<option>Beginner</option>
+<option>1-3 Years</option>
+<option>4-6 Years</option>
+<option>Over 6 Years</option>
+</select><br><br>
+<textarea required placeholder="Describe your plumbing skills" style="padding:12px;width:90%"></textarea><br><br>
+<select style="padding:12px;width:95%">
+<option>Available for Work</option>
+<option>Currently Busy</option>
+</select><br><br>
+<button type="button">Submit Plumber Profile</button>
+</form>
+</div>
+</section>
+
 
 
 
