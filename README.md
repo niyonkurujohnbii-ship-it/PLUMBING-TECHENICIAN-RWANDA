@@ -334,6 +334,37 @@ Assign Plumber
 </button>
 </div>
 </section>
+<section style="padding:35px 15px;background:#f4f7fa;text-align:center">
+<h2 style="color:#063b70">Track Your Plumbing Job</h2>
+<p>Follow the progress of your plumbing service request.</p>
+
+<div class="card">
+<h3>Job Progress</h3>
+<div style="text-align:left;line-height:2.5">
+<p>🟢 1. Job Request Submitted</p>
+<p>🟡 2. Payment Verification</p>
+<p>⚪ 3. Plumber Assigned</p>
+<p>⚪ 4. Work in Progress</p>
+<p>⚪ 5. Job Completed</p>
+</div>
+</div>
+
+<div class="card">
+<h3>Customer Feedback</h3>
+<label>Rate Your Service</label><br><br>
+<select style="padding:12px;width:95%">
+<option>Select Rating</option>
+<option>★★★★★ Excellent</option>
+<option>★★★★ Very Good</option>
+<option>★★★ Good</option>
+<option>★★ Needs Improvement</option>
+<option>★ Poor</option>
+</select><br><br>
+<textarea placeholder="Write your feedback..." style="width:90%;padding:12px"></textarea><br><br>
+<button type="button">Submit Feedback</button>
+</div>
+</section>
+
 
 
 
