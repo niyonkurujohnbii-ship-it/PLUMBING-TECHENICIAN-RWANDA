@@ -447,6 +447,69 @@ body {
 /* CSS nshya uyishyira hano */
 
 </style>
+/* Mobile Responsive Design */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+input, textarea, select, button {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+
+  header h1 {
+    font-size: 25px;
+  }
+
+  .hero {
+    padding: 30px 12px;
+  }
+
+  .hero h2 {
+    font-size: 23px;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  nav a {
+    margin: 4px;
+  }
+
+  .cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 350px;
+    margin: 12px auto;
+  }
+
+  .section {
+    padding: 22px 12px;
+  }
+
+  button {
+    padding: 12px 16px;
+  }
+}
+
 </head>
 
 
