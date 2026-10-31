@@ -438,7 +438,16 @@ Contact Us on WhatsApp
 <p>Copyright © 2026 Plumbing Technician Rwanda.</p>
 <p>All Rights Reserved.</p>
 
-</footer>
+</footer><head>
+<style>
+body {
+  font-family: Arial;
+}
+
+/* CSS nshya uyishyira hano */
+
+</style>
+</head>
 
 
 
