@@ -205,7 +205,37 @@ a{color:#078447}
 </div>
 
 <p><strong>Admin Dashboard Preview – Demo Version</strong></p>
+</section
+<section style="padding:35px 15px;background:#eef4f8;text-align:center">
+<h2 style="color:#063b70">Payments and Connection Fees</h2>
+<p>Our platform accepts MTN Mobile Money and Airtel Money.</p>
+
+<div class="card">
+<h3>Customer Payment</h3>
+<h2 style="color:#078447">6,000 RWF</h2>
+<p>Pay before being connected to a plumber.</p>
+</div>
+
+<div class="card">
+<h3>Plumber Payment</h3>
+<h2 style="color:#078447">5,000 RWF</h2>
+<p>Pay before receiving a customer job connection.</p>
+</div>
+
+<div class="card">
+<h3>Available Payment Methods</h3>
+<p>MTN Mobile Money</p>
+<p>Airtel Money</p>
+<p>Admin will provide the official payment details.</p>
+</div>
+
+<div class="card">
+<h3>Payment Verification</h3>
+<p>Submit your payment reference to the Admin.</p>
+<p>Admin must verify payment before matching customers and plumbers.</p>
+</div>
 </section>
+
 
 
 </html>
