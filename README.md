@@ -511,6 +511,15 @@ input, textarea, select, button {
 }
 
 </head>
+<nav style="background:#052b50;padding:15px;text-align:center;display:flex;justify-content:center;flex-wrap:wrap;gap:18px">
+<a href="#home" style="color:white;text-decoration:none;font-weight:bold">HOME</a>
+<a href="#services" style="color:white;text-decoration:none;font-weight:bold">SERVICES</a>
+<a href="#pricing" style="color:white;text-decoration:none;font-weight:bold">PRICING</a>
+<a href="#register" style="color:white;text-decoration:none;font-weight:bold">REGISTER</a>
+<a href="#login" style="color:white;text-decoration:none;font-weight:bold">LOGIN</a>
+<a href="#contact" style="color:white;text-decoration:none;font-weight:bold">CONTACT</a>
+</nav>
+
 
 
 
