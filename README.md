@@ -400,6 +400,46 @@ Assign Plumber
 </details>
 </div>
 </section>
+<footer style="background:#052b50;color:white;padding:35px 15px;text-align:center">
+
+<h2>Plumbing Technician Rwanda</h2>
+
+<p>Your trusted plumbing service connection platform.</p>
+
+<p>Our Services Are Available in Rwanda.</p>
+
+<hr>
+
+<h3>Quick Links</h3>
+<p><a href="#home" style="color:white">Home</a></p>
+<p><a href="#services" style="color:white">Our Services</a></p>
+<p><a href="#pricing" style="color:white">Pricing</a></p>
+<p><a href="#contact" style="color:white">Contact Us</a></p>
+
+<hr>
+
+<h3>Contact Information</h3>
+<p>Phone: +250 787 601 807</p>
+
+<a href="tel:+250787601807" style="color:white">
+Call Us
+</a>
+<br><br>
+
+<a href="https://wa.me/250787601807" style="background:#078447;color:white;padding:12px 20px;text-decoration:none;border-radius:5px">
+Contact Us on WhatsApp
+</a>
+
+<hr>
+
+<p>Customer Connection Fee: 6,000 RWF</p>
+<p>Plumber Connection Fee: 5,000 RWF</p>
+
+<p>Copyright © 2026 Plumbing Technician Rwanda.</p>
+<p>All Rights Reserved.</p>
+
+</footer>
+
 
 
 
