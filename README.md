@@ -299,6 +299,42 @@ a{color:#078447}
 </form>
 </div>
 </section>
+<section style="padding:35px 15px;background:#edf2f7;text-align:center">
+<h2 style="color:#063b70">Admin Job Matching System</h2>
+<p>Connect customers with suitable plumbing technicians.</p>
+
+<div class="card">
+<h3>Customer Information</h3>
+<input placeholder="Customer Name" style="padding:12px;width:90%"><br><br>
+<input placeholder="Customer Phone" style="padding:12px;width:90%"><br><br>
+<input placeholder="Customer District" style="padding:12px;width:90%">
+</div>
+
+<div class="card">
+<h3>Select Plumber</h3>
+<input placeholder="Plumber Name" style="padding:12px;width:90%"><br><br>
+<input placeholder="Plumber Phone" style="padding:12px;width:90%"><br><br>
+<input placeholder="Plumber District" style="padding:12px;width:90%">
+</div>
+
+<div class="card">
+<h3>Job Assignment Status</h3>
+<select style="padding:12px;width:95%">
+<option>Pending Matching</option>
+<option>Payment Verification</option>
+<option>Ready for Matching</option>
+<option>Matched</option>
+<option>Work in Progress</option>
+<option>Completed</option>
+<option>Cancelled</option>
+</select>
+<br><br>
+<button type="button" style="padding:13px;background:#078447;color:white;border:0;border-radius:5px">
+Assign Plumber
+</button>
+</div>
+</section>
+
 
 
 
