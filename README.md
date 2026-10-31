@@ -364,6 +364,43 @@ Assign Plumber
 <button type="button">Submit Feedback</button>
 </div>
 </section>
+<section style="padding:35px 15px;background:#e8f2fa;text-align:center">
+<h2 style="color:#063b70">Frequently Asked Questions</h2>
+<p>Everything you need to know about our platform.</p>
+
+<div class="card" style="text-align:left">
+<details>
+<summary><strong>How can I find a plumber?</strong></summary>
+<p>Create a customer account, submit your plumbing request and wait for payment verification and matching.</p>
+</details>
+<hr>
+<details>
+<summary><strong>How can plumbers find jobs?</strong></summary>
+<p>Register as a plumber, provide your skills and service areas, and wait for job opportunities.</p>
+</details>
+<hr>
+<details>
+<summary><strong>How much does a customer pay?</strong></summary>
+<p>The customer connection fee is 6,000 RWF, payable before matching.</p>
+</details>
+<hr>
+<details>
+<summary><strong>How much does a plumber pay?</strong></summary>
+<p>The plumber connection fee is 5,000 RWF, payable before receiving a job connection.</p>
+</details>
+<hr>
+<details>
+<summary><strong>Which payment methods are available?</strong></summary>
+<p>MTN Mobile Money and Airtel Money. Confirm the official payment details with the Admin before paying.</p>
+</details>
+<hr>
+<details>
+<summary><strong>Are services available across Rwanda?</strong></summary>
+<p>Yes. Our platform aims to connect customers and plumbers across Rwanda.</p>
+</details>
+</div>
+</section>
+
 
 
 
