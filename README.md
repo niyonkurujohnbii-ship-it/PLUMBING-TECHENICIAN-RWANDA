@@ -25,4 +25,47 @@ a{color:#078447}
 <footer><p>Phone/WhatsApp: +250 787 601 807</p>
 <p>Plumbing Technician Rwanda © 2026</p></footer>
 </body>
+<section style="background:#e8f2fa;padding:40px 20px;text-align:center">
+<h2>Welcome to Plumbing Technician Rwanda</h2>
+<p>Your trusted connection to plumbing professionals across Rwanda.</p>
+<p>We help customers find plumbers and help plumbers find jobs.</p>
+</section>
+
+<section style="padding:30px;text-align:center">
+<h2>About Us</h2>
+<p>Our platform connects people who need plumbing services with skilled plumbing technicians.</p>
+<p>Our Services Are Available in Rwanda.</p>
+</section>
+
+<section style="background:#f4f7fa;padding:30px;text-align:center">
+<h2>Our Plumbing Services</h2>
+<div class="card"><h3>Pipe Repair</h3><p>Repair leaking and damaged water pipes.</p></div>
+<div class="card"><h3>Water Installation</h3><p>Water systems, taps and plumbing installations.</p></div>
+<div class="card"><h3>Toilet and Bathroom</h3><p>Bathroom and toilet plumbing services.</p></div>
+<div class="card"><h3>Emergency Plumbing</h3><p>Find help for urgent plumbing problems.</p></div>
+</section>
+
+<section style="padding:30px;text-align:center">
+<h2>How It Works</h2>
+<div class="card">
+<h3>For Customers</h3>
+<p>Register, describe your plumbing problem and request a technician.</p>
+<a href="mailto:niyonkuru@example.com">Contact us</a>
+</div>
+<div class="card">
+<h3>For Plumbers</h3>
+<p>Register your skills and service area to find job opportunities.</p>
+<a href="https://wa.me/250787601807">WhatsApp us</a>
+</div>
+</section>
+
+<section style="background:#063b70;color:white;padding:30px;text-align:center">
+<h2>Contact Our Team</h2>
+<p>Phone: +250 787 601 807</p>
+<p>Available across Rwanda</p>
+<a style="color:white" href="https://wa.me/250787601807">Chat with us on WhatsApp</a>
+</section>
+</body>
+</html>
+
 </html>
