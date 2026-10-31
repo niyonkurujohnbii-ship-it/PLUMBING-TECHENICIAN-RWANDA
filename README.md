@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Plumbing Technician Rwanda</title>
+<title>Plumbing Technician Rwanda</title
 <style>
 body{font-family:Arial;text-align:center;margin:0;background:#eef4f8;color:#123}
 header,footer{background:#063b70;color:white;padding:25px}
@@ -95,6 +95,51 @@ a{color:#078447}
 </form>
 </div>
 </section>
+<section style="padding:30px;background:#eef4f8;text-align:center">
+<h2>Create Your Account</h2>
+<p>Choose your account type</p>
+
+<div class="card">
+<h3>Customer Registration</h3>
+<form>
+<label>First Name</label><br>
+<input required placeholder="Enter first name" style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>Last Name</label><br>
+<input required placeholder="Enter last name" style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>Phone Number</label><br>
+<input required type="tel" placeholder="+250..." style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>WhatsApp Number</label><br>
+<input type="tel" placeholder="WhatsApp number" style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>Email Address</label><br>
+<input required type="email" placeholder="Enter email" style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>District</label><br>
+<input required placeholder="Your district" style="width:90%;padding:12px;border:1px solid #777"><br><br>
+<label>Plumbing Problem</label><br>
+<textarea placeholder="Describe your problem" style="width:90%;padding:12px"></textarea><br><br>
+<button type="button">Register as Customer</button>
+</form>
+</div>
+
+<div class="card">
+<h3>Plumber Registration</h3>
+<form>
+<label>Full Name</label><br>
+<input required placeholder="Enter full name" style="width:90%;padding:12px"><br><br>
+<label>Phone Number</label><br>
+<input required type="tel" placeholder="+250..." style="width:90%;padding:12px"><br><br>
+<label>WhatsApp Number</label><br>
+<input type="tel" placeholder="WhatsApp number" style="width:90%;padding:12px"><br><br>
+<label>Email Address</label><br>
+<input required type="email" placeholder="Enter email" style="width:90%;padding:12px"><br><br>
+<label>District</label><br>
+<input required placeholder="Your district" style="width:90%;padding:12px"><br><br>
+<label>Skills and Experience</label><br>
+<textarea placeholder="Describe your skills" style="width:90%;padding:12px"></textarea><br><br>
+<button type="button">Register as Plumber</button>
+</form>
+</div>
+</section>
+
 
 </body>
 </html>
